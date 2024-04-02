@@ -23,10 +23,14 @@ In this plot, I am trying to show the distribution of the lincense status. Y - a
 
 This chart shows the trend in the number of licenses with "Not Renewed" status in the Fall 2022 license data by year.Y - axis is using quantitative to represent the number of licences. And the X-axis is using temporal encoding. The line graph method is used here to visualize this icon, and also compared to the previous assignment, I added drop-down menus to it that can be interacted with. The user can then choose to see how the corresponding license status is trending over the years.
 
+`Link for the first plot`
+<a href="https://youpeng0630.github.io/IS445/chart1.html" class="btn">Plot1</a>
 
-<a href="https://youpeng0630.github.io/IS445/chart1.html" class="btn">GitHub Home</a>
+`Link for the second plot`
+<a href="https://youpeng0630.github.io/IS445/chart2.html" class="btn">Plot2</a>
 
-<a href="https://youpeng0630.github.io/IS445/chart2.html" class="btn">Project Page</a>
+`Link for the ipynotebook analysis`
+<a href="https://youpeng0630.github.io/IS445/IS445_Homework8.ipynb" class="btn">Analysis Notebook</a>
 
 [jekyll-docs]: https://jekyllrb.com/docs/home
 
