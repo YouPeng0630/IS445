@@ -29,7 +29,10 @@ This chart shows the trend in the number of licenses with "Not Renewed" status i
 `Link for the second plot`
 <a href="https://youpeng0630.github.io/IS445/chart2.html" class="btn">Plot2</a>
 
-`Link for the ipynotebook analysis`
+`Link for download ipynotebook analysis`
+<a href="https://youpeng0630.github.io/IS445/IS445_Homework8.ipynb" class="btn">Download Notebook</a>
+
+`Link for show ipynotebook analysis in git hub`
 <a href="https://github.com/YouPeng0630/IS445/blob/main/IS445_Homework8.ipynb" class="btn">Analysis Notebook</a>
 
 [jekyll-docs]: https://jekyllrb.com/docs/home
